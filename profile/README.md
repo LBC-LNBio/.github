@@ -6,7 +6,7 @@
   <a href="https://github.com/orgs/LBC-LNBio/repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103"/></a>
 </p>
 
-<p align="center"><img width=800 alt="Banner" src='images/banner.png'></img></p>
+<p align="center"><img width=800 alt="Banner" src="https://raw.githubusercontent.com/LBC-LNBio/.github/main/profile/images/banner.png"></img></p>
 
 <p align=”justify>
   The Computational Biology Laboratory (<a href="https://lnbio.cnpem.br/thematic-programs/bioinformatics/">LBC</a>) is a cutting-edge laboratory housed within Brazilian Biosciences National Laboratory (<a href="https://lnbio.cnpem.br">LNBio</a>) at the Brazilian Center for Research in Energy and Materials (<a href="https://cnpem.br">CNPEM</a>) in Campinas/SP, Brazil. The LBC is committed to developing and applying advanced computational tools to solve complex biological problems, with a focus on structural biology, omics, and artificial intelligence in biology.
