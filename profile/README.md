@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome to the Computational Biology Laboratory! 👋</h2>
+<h2 align="center"> &nbsp;Welcome to the Computational Biology Laboratory! 👋</h2>
 
 <p align="center">
   <a href="https://github.com/LBC-LNBio"><img src="https://komarev.com/ghpvc/?username=LBC-LNBio&color=46BC99&label=Visitors"></a>
@@ -6,7 +6,9 @@
   <a href="https://github.com/orgs/LBC-LNBio/repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103"/></a>
 </p>
 
-<p align="center"><img width=800 alt="Banner" src="https://raw.githubusercontent.com/LBC-LNBio/.github/main/profile/images/banner.png"></img></p>
+<p align="center"><img width=800 alt="Banner" src="https://raw.githubusercontent.com/LBC-LNBio/.github/main/profile/images/banner-cnpem.png"></img></p>
+
+<h3 align="left">🧬 &nbsp;About Us</h3>
 
 <p align=”justify>
   The Computational Biology Laboratory (<a href="https://lnbio.cnpem.br/thematic-programs/bioinformatics/">LBC</a>) is a cutting-edge laboratory housed within Brazilian Biosciences National Laboratory (<a href="https://lnbio.cnpem.br">LNBio</a>) at the Brazilian Center for Research in Energy and Materials (<a href="https://cnpem.br">CNPEM</a>) in Campinas/SP, Brazil. The LBC is committed to developing and applying advanced computational tools to solve complex biological problems, with a focus on structural biology, omics, and artificial intelligence in biology.
@@ -14,7 +16,7 @@
   Our multidisciplinary scientific team utilizes state-of-the-art technologies to analyze large datasets, investigate complex biological systems and develop innovative solutions to tackle some of the most challenging biological questions in the intersection of biology and computer science. With a deep commitment to excellence and a passion for innovation, the LBC is making significant contributions to the scientific community and driving the field of computational biology forward.
 </p>
 
-<h3 align="left">🌟 Featured Repositories</h3>
+<h3 align="left">🌟 &nbsp;Featured Repositories</h3>
 <p align="center">
   <a href=https://github.com/LBC-LNBio/pyKVFinder><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=pyKVFinder&show_owner=True&theme=react"></a>
   <a href=https://github.com/LBC-LNBio/parKVFinder><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=parKVFinder&show_owner=True&theme=react"></a>
@@ -22,7 +24,7 @@
   <a href=https://github.com/LBC-LNBio/KVFinder-web><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web&show_owner=True&theme=react"></a>
 </p>
 
-<h3> &nbsp;Featured publications </h3>
+<h3>📚 &nbsp;Featured Publications </h3>
 
 <p>
   <ul>
@@ -32,7 +34,7 @@
   </ul>
 </p>
 
-<h3> &nbsp;Scientific Team </h3>
+<h3>👨‍💻👩‍💻 &nbsp;Scientific Team </h3>
 <p>
   <ul>
     <li>Dr. Paulo S. Lopes-de-Oliveira (Coordinator) - <a href="https://github.com/psloliveira">@psloliveira</a></li>
