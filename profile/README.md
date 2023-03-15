@@ -49,7 +49,7 @@
   <ul>
     <li>Dr. Paulo S. Lopes-de-Oliveira (Coordinator) - <a href="https://github.com/psloliveira">@psloliveira</a></li>
     <li>Dr. José Geraldo de Carvalho Pereira - <a href="https://github.com/zgcarvalho">@zgcarvalho</a></li>
-    <li>Dr. Helder Veras Ribeiro Filho- <a href="https://github.com/helder-ribeiro">@helder-ribeiro</a></li>
+    <li>Dr. Helder Veras Ribeiro Filho - <a href="https://github.com/helder-ribeiro">@helder-ribeiro</a></li>
     <li>Dr. Gabriel Ernesto Jara - <a href="https://github.com/gabrieliacc">@gabrieliacc</a></li>
     <li>Dr. Leandro Oliveira Bortot - <a href="https://github.com/Leandro-OBt">@Leandro-OBt</a></li>
     <li>MSc. João Victor da Silva Guerra - <a href="https://github.com/jvsguerra">@jvsguerra</a></li>
