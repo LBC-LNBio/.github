@@ -28,6 +28,7 @@
 
 <p>
   <ul>
+    <li> Guerra, J. V. S., Ribeiro-Filho, H. V., Pereira, J. G. C., & Lopes-de-Oliveira, P. S. (2023). KVFinder-web: a web-based application for detecting and characterizing biomolecular cavities. In Nucleic Acids Research (Vol. 51, Issue W1, pp. W289–W297). Oxford University Press (OUP). https://doi.org/10.1093/nar/gkad324.</li>
     <li> Ribeiro-Filho, H. V., Jara, G. E., Batista, F. A. H., Schleder, G. R., Costa Tonoli, C. C., Soprano, A. S., Guimarães, S. L., Borges, A. C., Cassago, A., Bajgelman, M. C., Marques, R. E., Trivella, D. B. B., Franchini, K. G., Figueira, A. C. M., Benedetti, C. E., & Lopes-de-Oliveira, P. S. (2022). Structural dynamics of SARS-CoV-2 nucleocapsid protein induced by RNA binding. In A. Onufriev (Ed.), PLOS Computational Biology (Vol. 18, Issue 5, p. e1010121). Public Library of Science (PLoS). https://doi.org/10.1371/journal.pcbi.1010121.</li>
     <li> Guerra, J. V. da S., Ribeiro-Filho, H. V., Jara, G. E., Bortot, L. O., Pereira, J. G. de C., & Lopes-de-Oliveira, P. S. (2021). pyKVFinder: an efficient and integrable Python package for biomolecular cavity detection and characterization in data science. In BMC Bioinformatics (Vol. 22, Issue 1). Springer Science and Business Media LLC. https://doi.org/10.1186/s12859-021-04519-4.</li>
     <li> Guerra, J. V. da S., Ribeiro Filho, H. V., Bortot, L. O., Honorato, R. V., Pereira, J. G. de C., & Lopes-de-Oliveira, P. S. (2020). ParKVFinder: A thread-level parallel approach in biomolecular cavity detection. In SoftwareX (Vol. 12, p. 100606). Elsevier BV. https://doi.org/10.1016/j.softx.2020.100606.</li>
@@ -39,6 +40,7 @@
 
 <p>
   <ul>
+    <li> Guerra, J. V. S., Alves, L. F. G., Bourissou, D., Lopes-de-Oliveira, P. S., & Szalóki, G. (2023). Cavity Characterization in Supramolecular Cages. In Journal of Chemical Information and Modeling (Vol. 63, Issue 12, pp. 3772–3785). American Chemical Society (ACS). https://doi.org/10.1021/acs.jcim.3c00328. </li>
     <li> Moraes, B. C., Ribeiro-Filho, H. V., Roldão, A. P., Toniolo, E. F., Carretero, G. P. B., Sgro, G. G., Batista, F. A. H., Berardi, D. E., Oliveira, V. R. S., Tomasin, R., Vieceli, F. M., Pramio, D. T., Cardoso, A. B., Figueira, A. C. M., Farah, S. C., Devi, L. A., Dale, C. S., de Oliveira, P. S. L., & Schechtman, D. (2022). Structural analysis of TrkA mutations in patients with congenital insensitivity to pain reveals PLCγ as an analgesic drug target. In Science Signaling (Vol. 15, Issue 731). American Association for the Advancement of Science (AAAS). https://doi.org/10.1126/scisignal.abm6046.</li>
     <li> Ribeiro-Filho, H. V., Coimbra, L. D., Cassago, A., Rocha, R. P. F., Guerra, J. V. da S., de Felicio, R., Carnieli, C. M., Leme, L., Padilha, A. C., Paes Leme, A. F., Trivella, D. B. B., Portugal, R. V., Lopes-de-Oliveira, P. S., & Marques, R. E. (2021). Cryo-EM structure of the mature and infective Mayaro virus at 4.4 Å resolution reveals features of arthritogenic alphaviruses. In Nature Communications (Vol. 12, Issue 1). Springer Science and Business Media LLC. https://doi.org/10.1038/s41467-021-23400-9.</li>
   </ul>
