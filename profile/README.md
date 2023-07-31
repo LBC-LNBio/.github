@@ -55,5 +55,8 @@
     <li>Dr. Gabriel Ernesto Jara - <a href="https://github.com/gabrieliacc">@gabrieliacc</a></li>
     <li>Dr. Leandro Oliveira Bortot - <a href="https://github.com/Leandro-OBt">@Leandro-OBt</a></li>
     <li>MSc. João Victor da Silva Guerra - <a href="https://github.com/jvsguerra">@jvsguerra</a></li>
+    <li>MSc. Amauri Donadon Leal Junior</li>
+    <li>Pablo Wesley de Aguiar e Silva - <a href="https://github.com/wapablos">@wapablos</a></li>
+    <li>Patrick Hideki Fuzimoto Alvares</li>
   </ul>
 </p>
