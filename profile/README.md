@@ -46,7 +46,7 @@
   </ul>
 </p>
 
-<h3>👨‍💻👩‍💻 &nbsp;Current Members</h3>
+<h3>👨‍💻👩‍💻 &nbsp;Current Staff</h3>
 <p>
   <ul>
     <li>Dr. Paulo S. Lopes-de-Oliveira (Coordinator) - <a href="https://github.com/psloliveira">@psloliveira</a></li>
@@ -63,7 +63,7 @@
 </p>
 
 
-<h3>👨‍💻👩‍💻 &nbsp;Former Members</h3>
+<h3>👨‍💻👩‍💻 &nbsp;Former Staff</h3>
 <p>
   <ul>
     <li>Dr. Rodrigo Vargas Honorato - <a href="https://github.com/rvhonorato">@rvhonorato</a></li>
