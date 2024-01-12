@@ -46,7 +46,7 @@
   </ul>
 </p>
 
-<h3>👨‍💻👩‍💻 &nbsp;Scientific Team</h3>
+<h3>👨‍💻👩‍💻 &nbsp;Current Members</h3>
 <p>
   <ul>
     <li>Dr. Paulo S. Lopes-de-Oliveira (Coordinator) - <a href="https://github.com/psloliveira">@psloliveira</a></li>
@@ -58,5 +58,16 @@
     <li>MSc. Amauri Donadon Leal Junior</li>
     <li>Pablo Wesley de Aguiar e Silva - <a href="https://github.com/wapablos">@wapablos</a></li>
     <li>Patrick Hideki Fuzimoto Alvares</li>
+    <li>Marcos Rogério Simões - <a href="https://github.com/marcosrogeriosimoes">@marcosrogeriosimoes</a></li>
+  </ul>
+</p>
+
+
+<h3>👨‍💻👩‍💻 &nbsp;Former Members</h3>
+<p>
+  <ul>
+    <li>Dr. Rodrigo Vargas Honorato - <a href="https://github.com/rvhonorato">@rvhonorato</a></li>
+    <li>Dr. Mariana Bortoletto Grizante - <a href="https://github.com/mgrizante">@mgrizante</a></li>
+    <li>MSc. Luiz Fernando Giolo Alves - <a href="https://github.com/luizgiolo">@luizgiolo</a></li>
   </ul>
 </p>
