@@ -11,7 +11,7 @@
 <h3 align="left">🧬 &nbsp;About Us</h3>
 
 <p align=”justify>
-  The Computational Biology Laboratory (<a href="https://lnbio.cnpem.br/thematic-programs/bioinformatics/">LBC</a>) is a cutting-edge laboratory housed within Brazilian Biosciences National Laboratory (<a href="https://lnbio.cnpem.br">LNBio</a>) at the Brazilian Center for Research in Energy and Materials (<a href="https://cnpem.br">CNPEM</a>) in Campinas/SP, Brazil. The LBC is committed to developing and applying advanced computational tools to solve complex biological problems, with a focus on structural biology, omics, and artificial intelligence in biology.
+  The Computational Biology Laboratory (<a href="https://lnbio.cnpem.br/thematic-programs/bioinformatics/">LBC</a>) is a cutting-edge laboratory housed within Brazilian Biosciences National Laboratory (<a href="https://lnbio.cnpem.br">LNBio</a>) at the Brazilian Center for Research in Energy and Materials (<a href="https://cnpem.br">CNPEM</a>) in Campinas/SP, Brazil. The LBC is committed to developing and applying advanced computational tools to solve complex biological problems, focusing on structural biology, omics, and artificial intelligence in biology.
   
   Our multidisciplinary scientific team utilizes state-of-the-art technologies to analyze large datasets, investigate complex biological systems and develop innovative solutions to tackle some of the most challenging biological questions in the intersection of biology and computer science. With a deep commitment to excellence and a passion for innovation, the LBC is making significant contributions to the scientific community and driving the field of computational biology forward.
 </p>
@@ -28,6 +28,7 @@
 
 <p>
   <ul>
+    <li> Ribeiro-Filho, H. V., Jara, G. E., Guerra, J. V. S., Cheung, M., Felbinger, N. R., Pereira, J. G. C., Pierce, B. G., & Lopes-de-Oliveira, P. S. (2024). Exploring the Potential of Structure-Based Deep Learning Approaches for T cell Receptor Design. bioRxiv : the preprint server for biology. https://doi.org/10.1101/2024.04.19.590222</li>
     <li> Guerra, J. V. S., Ribeiro-Filho, H. V., Pereira, J. G. C., & Lopes-de-Oliveira, P. S. (2023). KVFinder-web: a web-based application for detecting and characterizing biomolecular cavities. In Nucleic Acids Research (Vol. 51, Issue W1, pp. W289–W297). Oxford University Press (OUP). https://doi.org/10.1093/nar/gkad324.</li>
     <li> Ribeiro-Filho, H. V., Jara, G. E., Batista, F. A. H., Schleder, G. R., Costa Tonoli, C. C., Soprano, A. S., Guimarães, S. L., Borges, A. C., Cassago, A., Bajgelman, M. C., Marques, R. E., Trivella, D. B. B., Franchini, K. G., Figueira, A. C. M., Benedetti, C. E., & Lopes-de-Oliveira, P. S. (2022). Structural dynamics of SARS-CoV-2 nucleocapsid protein induced by RNA binding. In A. Onufriev (Ed.), PLOS Computational Biology (Vol. 18, Issue 5, p. e1010121). Public Library of Science (PLoS). https://doi.org/10.1371/journal.pcbi.1010121.</li>
     <li> Guerra, J. V. da S., Ribeiro-Filho, H. V., Jara, G. E., Bortot, L. O., Pereira, J. G. de C., & Lopes-de-Oliveira, P. S. (2021). pyKVFinder: an efficient and integrable Python package for biomolecular cavity detection and characterization in data science. In BMC Bioinformatics (Vol. 22, Issue 1). Springer Science and Business Media LLC. https://doi.org/10.1186/s12859-021-04519-4.</li>
@@ -54,8 +55,8 @@
     <li>Dr. Helder Veras Ribeiro Filho - <a href="https://github.com/helder-ribeiro">@helder-ribeiro</a></li>
     <li>Dr. Gabriel Ernesto Jara - <a href="https://github.com/gabrieliacc">@gabrieliacc</a></li>
     <li>Dr. Leandro Oliveira Bortot - <a href="https://github.com/Leandro-OBt">@Leandro-OBt</a></li>
-    <li>MSc. João Victor da Silva Guerra - <a href="https://github.com/jvsguerra">@jvsguerra</a></li>
-    <li>MSc. Amauri Donadon Leal Junior</li>
+    <li>Dr. João Victor da Silva Guerra - <a href="https://github.com/jvsguerra">@jvsguerra</a></li>
+    <li>MSc. Amauri Donadon Leal Junior - <a href="https://github.com/AmauriDLJr">@AmauriDLJr</a></li>
     <li>Pablo Wesley de Aguiar e Silva - <a href="https://github.com/wapablos">@wapablos</a></li>
     <li>Patrick Hideki Fuzimoto Alvares</li>
     <li>Marcos Rogério Simões - <a href="https://github.com/marcosrogeriosimoes">@marcosrogeriosimoes</a></li>
